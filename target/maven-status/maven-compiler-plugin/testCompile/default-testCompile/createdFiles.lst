@@ -1,0 +1,5 @@
+com\microfocus\test\FindPetByIdTest.class
+com\microfocus\test\ReadJsonDemo.class
+com\microfocus\test\AddPetTest.class
+com\microfocus\test\DeletePetTest.class
+com\microfocus\test\FindByStatusTest.class
